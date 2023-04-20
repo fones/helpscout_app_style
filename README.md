@@ -4,9 +4,9 @@ When you are building custom app in HelpScout, you will find hard time when try 
 
 ## How to start
 
-1. Open this projec in CodeSandbox or just open it in browser
+1. Open this project in CodeSandbox or just open it in browser
    * no server is need
-2. Edit `index.html` beetween `<!-- START EDIT -->` and `<!-- END EDIT -->`
+2. Edit `index.html` between `<!-- START EDIT -->` and `<!-- END EDIT -->`
 3. Preview changes
 
 ### Links
